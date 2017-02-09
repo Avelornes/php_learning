@@ -1,0 +1,29 @@
+ul.nav.nav-pills{
+    padding: 5px;
+}
+
+.btn-group-lg>.btn, .btn-lg{
+    margin: 20px;
+}
+
+.pair{
+    color: green;
+}
+
+.impair{
+    color: red;
+}
+
+.jumbotron{
+    background: url("ressources/abstract-mosaic-background.png") no-repeat center center;
+}
+
+article{
+    margin: 10px;
+    padding-bottom: 50px;
+}
+
+.navbar-fixed-bottom{
+    background-color: lightgrey;
+}
+
