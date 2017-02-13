@@ -15,5 +15,7 @@
         <li role="presentation"><a href="/php_mos/HTML-PHP/loterie.php" target="_blank">Loterie</a></li>
         <li role="presentation"><a href="http://phpstorm.localhost/php_mos/Login/" target="_blank">Login</a></li>
         <li role="presentation"><a href="http://phpstorm.localhost/php_mos/inscription/" target="_blank">Inscription</a></li>
+        <li role="presentation"><a href="http://phpstorm.localhost/php_mos/jeu_video/" target="_blank">Jeu !</a></li>
+
     </ul>
 </nav>
