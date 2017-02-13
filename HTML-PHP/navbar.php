@@ -13,7 +13,7 @@
         <li role="presentation"><a href="/php_mos/HTML-PHP/API.php" target="_blank">API</a></li>
         <li role="presentation"><a href="http://phpstorm.localhost/php_mos/majeur_mineur/" target="_blank">Majeur/Mineur</a></li>
         <li role="presentation"><a href="/php_mos/HTML-PHP/loterie.php" target="_blank">Loterie</a></li>
-
+        <li role="presentation"><a href="http://phpstorm.localhost/php_mos/Login/" target="_blank">Login</a></li>
 
     </ul>
 </nav>
