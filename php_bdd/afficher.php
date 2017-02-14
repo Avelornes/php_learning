@@ -1,6 +1,6 @@
 <?php
 
-$bdd = new PDO('mysql:host=localhost; dbname=manche_open_school; charset=utf8', 'root', 'etoile1');
+$bdd = new PDO('mysql:host=localhost; dbname=manche_open_school; charset=utf8', 'root', '******');
 
 $reponse = $bdd->query('SELECT * FROM utilisateurs');
 
